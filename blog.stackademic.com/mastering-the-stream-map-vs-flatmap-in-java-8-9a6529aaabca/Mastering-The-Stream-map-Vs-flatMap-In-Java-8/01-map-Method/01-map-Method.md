@@ -1,0 +1,1 @@
+The _map_ method is an *intermediate* operation
